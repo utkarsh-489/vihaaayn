@@ -60,8 +60,8 @@ export default function App() {
     <div className="app">
       <aside className="sidebar">
         <div className="brand-block">
-          <div className="brand-mark">API<span>x</span></div>
-          <div className="brand-sub">India Airfare Price Index</div>
+          <div className="brand-mark">विहाय<span>x</span></div>
+          <div className="brand-sub">through the sky</div>
           <div className="live-badge"><i /> LIVE ANALYTICS</div>
         </div>
 
