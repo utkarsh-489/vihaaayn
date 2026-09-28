@@ -6,7 +6,12 @@
     },
     "backend": {
       "root": "backend/",
-      "entrypoint": "server.js"
+      "entrypoint": "server.js",
+      "framework": "express",
+      "includeFiles": [
+        "../scripts/**",
+        "../data/**"
+      ]
     }
   },
   "rewrites": [
