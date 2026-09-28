@@ -1,0 +1,230 @@
+[
+  {
+    "index": 100,
+    "base_period": "2026-09-27T09:24:54.912Z",
+    "current_period": "2026-09-27T09:24:54.912Z",
+    "observations": 1033,
+    "coverage": 100,
+    "routes": [
+      {
+        "route": "DEL-BOM",
+        "weight": 0.26,
+        "base_median": 7419,
+        "current_median": 7419,
+        "relative_index": 100,
+        "observation_count": 287
+      },
+      {
+        "route": "DEL-BLR",
+        "weight": 0.22,
+        "base_median": 10353,
+        "current_median": 10353,
+        "relative_index": 100,
+        "observation_count": 213
+      },
+      {
+        "route": "BOM-BLR",
+        "weight": 0.18,
+        "base_median": 8293,
+        "current_median": 8293,
+        "relative_index": 100,
+        "observation_count": 169
+      },
+      {
+        "route": "DEL-CCU",
+        "weight": 0.14,
+        "base_median": 9931,
+        "current_median": 9931,
+        "relative_index": 100,
+        "observation_count": 145
+      },
+      {
+        "route": "MAA-DEL",
+        "weight": 0.12,
+        "base_median": 10094,
+        "current_median": 10094,
+        "relative_index": 100,
+        "observation_count": 122
+      },
+      {
+        "route": "BLR-HYD",
+        "weight": 0.08,
+        "base_median": 6340,
+        "current_median": 6340,
+        "relative_index": 100,
+        "observation_count": 97
+      }
+    ]
+  },
+  {
+    "index": 101.83,
+    "base_period": "2026-09-27T09:24:54.912Z",
+    "current_period": "2026-09-27T11:41:54.064Z",
+    "observations": 1178,
+    "coverage": 100,
+    "routes": [
+      {
+        "route": "DEL-BOM",
+        "weight": 0.26,
+        "base_median": 7419,
+        "current_median": 7837,
+        "relative_index": 105.63,
+        "observation_count": 317
+      },
+      {
+        "route": "DEL-BLR",
+        "weight": 0.22,
+        "base_median": 10353,
+        "current_median": 10280,
+        "relative_index": 99.29,
+        "observation_count": 253
+      },
+      {
+        "route": "BOM-BLR",
+        "weight": 0.18,
+        "base_median": 8293,
+        "current_median": 8235,
+        "relative_index": 99.3,
+        "observation_count": 192
+      },
+      {
+        "route": "DEL-CCU",
+        "weight": 0.14,
+        "base_median": 9931,
+        "current_median": 9923.5,
+        "relative_index": 99.92,
+        "observation_count": 160
+      },
+      {
+        "route": "MAA-DEL",
+        "weight": 0.12,
+        "base_median": 10094,
+        "current_median": 10094,
+        "relative_index": 100,
+        "observation_count": 137
+      },
+      {
+        "route": "BLR-HYD",
+        "weight": 0.08,
+        "base_median": 6340,
+        "current_median": 6863,
+        "relative_index": 108.25,
+        "observation_count": 119
+      }
+    ]
+  },
+  {
+    "index": 101.64,
+    "base_period": "2026-09-27T09:24:54.912Z",
+    "current_period": "2026-09-27T14:35:17.630Z",
+    "observations": 1288,
+    "coverage": 100,
+    "routes": [
+      {
+        "route": "DEL-BOM",
+        "weight": 0.26,
+        "base_median": 7419,
+        "current_median": 7852,
+        "relative_index": 105.84,
+        "observation_count": 350
+      },
+      {
+        "route": "DEL-BLR",
+        "weight": 0.22,
+        "base_median": 10353,
+        "current_median": 10316.5,
+        "relative_index": 99.65,
+        "observation_count": 272
+      },
+      {
+        "route": "BOM-BLR",
+        "weight": 0.18,
+        "base_median": 8293,
+        "current_median": 8057,
+        "relative_index": 97.15,
+        "observation_count": 214
+      },
+      {
+        "route": "DEL-CCU",
+        "weight": 0.14,
+        "base_median": 9931,
+        "current_median": 9916,
+        "relative_index": 99.85,
+        "observation_count": 173
+      },
+      {
+        "route": "MAA-DEL",
+        "weight": 0.12,
+        "base_median": 10094,
+        "current_median": 10094,
+        "relative_index": 100,
+        "observation_count": 143
+      },
+      {
+        "route": "BLR-HYD",
+        "weight": 0.08,
+        "base_median": 6340,
+        "current_median": 6918,
+        "relative_index": 109.12,
+        "observation_count": 136
+      }
+    ]
+  },
+  {
+    "index": 99.21,
+    "base_period": "2026-09-27T09:24:54.912Z",
+    "current_period": "2026-09-28T03:53:09.086Z",
+    "observations": 2328,
+    "coverage": 100,
+    "routes": [
+      {
+        "route": "DEL-BOM",
+        "weight": 0.26,
+        "base_median": 7419,
+        "current_median": 7370,
+        "relative_index": 99.34,
+        "observation_count": 647
+      },
+      {
+        "route": "DEL-BLR",
+        "weight": 0.22,
+        "base_median": 10353,
+        "current_median": 10149,
+        "relative_index": 98.03,
+        "observation_count": 473
+      },
+      {
+        "route": "BOM-BLR",
+        "weight": 0.18,
+        "base_median": 8293,
+        "current_median": 7906,
+        "relative_index": 95.33,
+        "observation_count": 387
+      },
+      {
+        "route": "DEL-CCU",
+        "weight": 0.14,
+        "base_median": 9931,
+        "current_median": 9916,
+        "relative_index": 99.85,
+        "observation_count": 312
+      },
+      {
+        "route": "MAA-DEL",
+        "weight": 0.12,
+        "base_median": 10094,
+        "current_median": 10094,
+        "relative_index": 100,
+        "observation_count": 271
+      },
+      {
+        "route": "BLR-HYD",
+        "weight": 0.08,
+        "base_median": 6340,
+        "current_median": 6874,
+        "relative_index": 108.42,
+        "observation_count": 238
+      }
+    ]
+  }
+]
