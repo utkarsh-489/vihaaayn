@@ -1,0 +1,10 @@
+node_modules/
+frontend/node_modules/
+frontend/dist/
+.env
+data/*.json
+data/raw/
+data/scraped/
+!data/.gitkeep
+*.log
+.DS_Store

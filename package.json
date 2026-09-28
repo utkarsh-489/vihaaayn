@@ -1,0 +1,25 @@
+{
+  "name": "apix-simple",
+  "private": true,
+  "version": "1.0.0",
+  "description": "APIx — Real-time India Airfare Price Index (simplified MVP)",
+  "scripts": {
+    "dev": "concurrently -n backend,frontend -c blue,green \"npm run server\" \"npm run client\"",
+    "server": "node backend/server.js",
+    "client": "npm run dev --prefix frontend",
+    "build": "npm install --prefix frontend && npm run build --prefix frontend",
+    "start": "node backend/server.js",
+    "collector": "node scripts/serpapi_google_flights_collector.cjs",
+    "test:collector": "node scripts/serpapi_google_flights_collector.cjs",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
